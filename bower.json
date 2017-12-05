@@ -1,0 +1,17 @@
+{
+  "name": "authentication",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "sveltoz <coreteam@sveltoz.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
